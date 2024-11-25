@@ -1,30 +1,25 @@
----
+   ---
 
-profile:
-  description: |
-    <h3 align="center"> Hi 👋, I'm Aya El Hanach  </h3>
-    <h4 align="center">
-    I am a passionate full-stack developer with a focus on creating dynamic, user-friendly websites and applications.
-    </h4>
-  technologies:
-    - Frontend: HTML, CSS, JavaScript, React, Bootstrap
-    - Backend: PHP, Laravel
-    - Database: MySQL, MongoDB
-    - Tools: Git, VSCode, XAMPP, InfinityFree, Compass, Figma
+<h3 align="center"> Hi 👋, I'm Aya El Hanach  </h3>
+<h4 align="center">
+I am a passionate full-stack developer with a focus on creating dynamic, user-friendly websites and applications. Currently studying Digital Development at OFPPT, where I’m gaining practical experience in web technologies, programming, and software development. My projects involve building interactive forms, managing databases, and designing modern, responsive web applications.
+</h4>
+
+- 🔧 Technologies I work with:
+
+  - Frontend: HTML, CSS, JavaScript, React, Bootstrap
+  - Backend: PHP, Laravel
+  - Database: MySQL, MongoDB
+  - Tools: Git, VSCode, XAMPP, InfinityFree, Compass, Figma
 
 - 🌱 I’m dedicated to building innovative solutions and improving my skills in the world of web development. Always eager to learn and collaborate with others in the tech community!
 
 ---
 
 ### Connect with me  
-
-
-connections:
-  linkedin: "https://www.linkedin.com/in/ayaelhannach"
-  github: "https://github.com/ayaelhannach"
-  google_dev: "https://g.dev/aya-elhannach"
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayaelhannach)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaelhannach)  
+[![Google Dev](https://img.shields.io/badge/Google%20Dev-%234B8B3B.svg?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/aya-elhannach)
 
 ---
 
