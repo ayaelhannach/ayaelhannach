@@ -1,6 +1,6 @@
 ---
 
-<h3 align="center"> Hi 👋, I'm Aya El Hanach</h3>
+<h3 align="center"> Hi 👋, I'm Aya El Hanach  </h3>
 <h4 align="center">
 I am a passionate full-stack developer with a focus on creating dynamic, user-friendly websites and applications. Currently studying Digital Development at OFPPT, where I’m gaining practical experience in web technologies, programming, and software development. My projects involve building interactive forms, managing databases, and designing modern, responsive web applications.
 </h4>
@@ -17,8 +17,9 @@ I am a passionate full-stack developer with a focus on creating dynamic, user-fr
 ---
 
 ### Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-el-hannach-9136232b6/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaelhannach)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaelhannach)  
+
 
 ---
 
