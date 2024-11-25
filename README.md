@@ -19,7 +19,7 @@ I am a passionate full-stack developer with a focus on creating dynamic, user-fr
 ### Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayaelhannach)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaelhannach)  
-[![Google Dev](https://img.shields.io/badge/Google%20Dev-%234B8B3B.svg?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/aya-elhannach)
+
 
 ---
 
