@@ -1,6 +1,6 @@
 ---
 
-<h3 align="center"> Hi 👋, I'm Aya El Hanach </h3>
+<h3 align="center"> Hi 👋, I'm Aya El Hanach</h3>
 <h4 align="center">
 I am a passionate full-stack developer with a focus on creating dynamic, user-friendly websites and applications. Currently studying Digital Development at OFPPT, where I’m gaining practical experience in web technologies, programming, and software development. My projects involve building interactive forms, managing databases, and designing modern, responsive web applications.
 </h4>
