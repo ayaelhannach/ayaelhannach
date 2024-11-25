@@ -17,8 +17,13 @@ profile:
 ---
 
 ### Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaelhannach)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaelhannach)  
+
+
+connections:
+  linkedin: "https://www.linkedin.com/in/ayaelhannach"
+  github: "https://github.com/ayaelhannach"
+  google_dev: "https://g.dev/aya-elhannach"
+
 
 
 ---
