@@ -25,7 +25,7 @@ I am a passionate full-stack developer with a focus on creating dynamic, user-fr
 
 ### Languages and Tools
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -40,3 +40,4 @@ I am a passionate full-stack developer with a focus on creating dynamic, user-fr
   <img src="https://img.shields.io/badge/-InfinityFree-FF7100?style=flat&logo=infinityfree&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
+
