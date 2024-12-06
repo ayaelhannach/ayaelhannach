@@ -12,7 +12,6 @@ I am a passionate full-stack developer with a focus on creating dynamic, user-fr
   - Database: MySQL, MongoDB
   - Tools: Git, VSCode, XAMPP, InfinityFree, Compass, Figma
 
-- 🌱 I’m dedicated to building innovative solutions and improving my skills in the world of web development. Always eager to learn and collaborate with others in the tech community!
 
 ---
 
