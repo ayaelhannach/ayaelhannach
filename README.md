@@ -1,75 +1,90 @@
-# Aya El Hannach - Full-Stack Developer 👩‍💻
-
-Welcome to my GitHub profile!  
-I am **Aya El Hannach**, a passionate full-stack developer with a focus on building dynamic, user-friendly web applications. Currently studying **Digital Development** at **OFPPT**, I continuously improve my skills in web technologies, programming, and software development.
+<h1 align="center">✨ Aya El Hannach ✨</h1>
+<h3 align="center">Full-Stack Developer | Web Enthusiast 👩‍💻</h3>
 
 ---
 
-## 🔧 Technologies I Work With
+<p align="center">
+  🚀 Transforming ideas into real-world web solutions 🚀  
+</p>
 
-### **Frontend:**
-- HTML, CSS, JavaScript, React, Bootstrap
-
-### **Backend:**
-- PHP, Laravel
-
-### **Database:**
-- MySQL, MongoDB
-
-### **Tools:**
-- Git, VSCode, XAMPP, InfinityFree, Compass, Figma
+<p align="center">
+  Currently pursuing <b>Digital Development</b> at <b>OFPPT</b>, passionate about learning, creating, and innovating with the latest web technologies.
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🔥 About Me
+
+- 🎯 Focused on **dynamic** and **user-friendly** web applications
+- 💻 Love working with **React**, **Laravel**, and **PHP**
+- 🧠 Constantly learning new technologies and best practices
+- 🌍 Excited to collaborate on open-source and professional projects
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
+</p>
+
+### **Database**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+</p>
+
+### **Other Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/InfinityFree-FF7100?style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aya-el-hannach-9136232b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/ayaelhannach">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🧰 Languages and Tools
+## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-InfinityFree-FF7100?style=for-the-badge&logo=infinityfree&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaelhannach&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaelhannach&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
+## ✍️ Quote I Live By
 
-You can contact me through the following:
-
-- **Email**: [aya@example.com](mailto:aya@example.com)
-- **LinkedIn**: [Aya El Hannach](https://www.linkedin.com/in/aya-el-hannach-9136232b6/)
-- **GitHub**: [ayaelhannach](https://github.com/ayaelhannach)
+> "Success is not final; failure is not fatal: it is the courage to continue that counts." — Winston S. Churchill
 
 ---
 
-## 🚀 GitHub Stats
-
-![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaelhannach&show_icons=true&theme=radical&count_private=true)
-
-
-
----
-
-### ✨ Let's Build the Future Together
+<h3 align="center">💬 Let's build the future together!</h3>
