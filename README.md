@@ -68,27 +68,7 @@ You can contact me through the following:
 
 ![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaelhannach&show_icons=true&theme=radical&count_private=true)
 
----
 
-## 🌟 Code of Conduct
-
-Feel free to fork and contribute to any of my repositories. Please make sure your contributions follow the community guidelines and best practices for code contributions.
-
----
-
-## 💡 Fun Fact
-
-- I love solving complex problems and building innovative web solutions.  
-- My favorite programming language is **JavaScript** because of its versatility and ability to create interactive web applications.
-
----
-
-## 🎯 Projects
-
-- **Client Choices Form**: A form where clients can submit their preferences for custom products, including finishes and dimensions.  
-  [Demo Here](https://mosaic-factory.infinityfreeapp.com/)  
-- **Dynamic Dashboard**: A real-time, interactive web dashboard using JavaScript and React for displaying dynamic data.  
-  [Repo Here](https://github.com/ayaelhannach/dynamic-dashboard)
 
 ---
 
