@@ -72,12 +72,13 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaelhannach&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaelhannach&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" alt="Aya's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaelhannach&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaelhannach&layout=compact&theme=github_dark&hide_progress=false" alt="Top Languages" />
 </p>
+
 
 ---
 
