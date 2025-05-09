@@ -1,8 +1,11 @@
 # Aya El Hannach - Full-Stack Developer
 
-Hi 👋, I'm Aya El Hannach, a passionate full-stack developer with a focus on creating dynamic, user-friendly websites and applications. Currently studying Digital Development at OFPPT, where I’m gaining practical experience in web technologies, programming, and software development. My projects involve building interactive forms, managing databases, and designing modern, responsive web applications.
+Welcome to my GitHub profile! 👋  
+I am Aya El Hannach, a passionate full-stack developer focusing on building dynamic, user-friendly web applications. Currently studying Digital Development at OFPPT, I am continuously improving my skills in web technologies, programming, and software development.
 
-## Technologies I work with
+---
+
+## 🔧 Technologies I work with
 
 ### Frontend:
 - HTML, CSS, JavaScript, React, Bootstrap
@@ -18,14 +21,17 @@ Hi 👋, I'm Aya El Hannach, a passionate full-stack developer with a focus on c
 
 ---
 
-### 🖥️ Connect with me
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-el-hannach-9136232b6/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaelhannach)
 
+
+
+
 ---
 
-### 📊 Languages and Tools
+## 🧰 Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -45,26 +51,6 @@ Hi 👋, I'm Aya El Hannach, a passionate full-stack developer with a focus on c
 
 ---
 
-## 🚀 Projects
-
-### [Project 1](#)  
-Description of Project 1 with more details about how it's built, technologies used, and links to live demos or GitHub repos.
-
-### [Project 2](#)  
-Description of Project 2 with more details about how it's built, technologies used, and links to live demos or GitHub repos.
-
----
-
-## 🎓 Certificates
-
-### [Certificate 1](#)  
-Details about Certificate 1, including the platform and any relevant skills gained.
-
-### [Certificate 2](#)  
-Details about Certificate 2, including the platform and any relevant skills gained.
-
----
-
 ## 📫 How to reach me?
 
 - Email: [aya@example.com](mailto:aya@example.com)
@@ -73,7 +59,19 @@ Details about Certificate 2, including the platform and any relevant skills gain
 
 ---
 
-### 🔧 Code of Conduct
+### 🚀 GitHub Stats
+
+![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaelhannach&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🌟 Code of Conduct
 
 Feel free to fork and contribute to any of my repositories. Please make sure your contributions follow the community guidelines and best practices for code contributions.
 
+---
+
+## 💡 Fun Fact
+
+- I enjoy solving complex problems and building innovative web solutions.  
+- My favorite programming language is **JavaScript** for its versatility and ability to create interactive web applications.
